@@ -1,0 +1,20 @@
+{
+	"data": [
+		{
+			"numberAnalysts": 33,
+			"period": "2021-12-31",
+			"revenueAvg": 221442000000,
+			"revenueHigh": 230343000000,
+			"revenueLow": 213262000000
+		},
+		{
+			"numberAnalysts": 33,
+			"period": "2020-12-31",
+			"revenueAvg": 190428000000,
+			"revenueHigh": 193084000000,
+			"revenueLow": 187894000000
+		}
+	],
+	"freq": "annual",
+	"symbol": "GOOG"
+}

@@ -1,0 +1,12 @@
+[ {
+	"exDate" : "2019-03-29",
+	"paymentDate" : "2019-04-01",
+	"recordDate" : "2019-03-28",
+	"declaredDate" : null,
+	"amount" : "3.7504",
+	"flag" : "Cash",
+	"currency" : "USD",
+	"description" : "Vanguard Health Care Fund Admiral Class",
+	"frequency" : "semi-annual",
+	"date" : "2020-03-22"
+} ]
